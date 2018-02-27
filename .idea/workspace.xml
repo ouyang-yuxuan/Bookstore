@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da7a3484-e288-44b0-b2ac-ba44f1038445" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bookstore.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/bookstore.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-beanutils-1.9.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-collections-3.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-lang-2.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/ezmorph-1.0.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/json-lib-2.4-jdk15.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.44-bin.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/standard.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/account.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/account_details.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/add_category.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/add_product.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/add_publishers.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/add_user.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/add_user_rank.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/admin_list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/advertising.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/advertising_list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/bar.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/basic_settings.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/edit_order_detail.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/edit_product.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/edit_user.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/account.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/account_details.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/add_category.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/add_publishers.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/add_user.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/add_user_rank.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/admin_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/advertising.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/advertising_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/bar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/basic_settings.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/edit_order_detail.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/edit_product.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/edit_user.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/main.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/menu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/order_detail.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/order_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/product_category.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/product_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/product_publishers.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/recycle_bin.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/reply_message.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/revise_password.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/top.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/user_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/user_message.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/html/user_rank.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/admin_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/admin_logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/admin_logo1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/arrow_left.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/arrow_right.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/icon_account.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/icon_drop.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/icon_edit.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/icon_search.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/icon_title.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/icon_trash.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/icon_view.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/menu_minus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/menu_plus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/no.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/pc_loginBg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/user_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/user_02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/images/yes.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/js/Particleground.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/js/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/js/public.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/main.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/menu.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/order_detail.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/order_list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/product_category.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/product_list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/product_publishers.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/recycle_bin.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/reply_message.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/revise_password.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/style/adminStyle.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/top.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/user_list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/user_message.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/admin/user_rank.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/adminLogin.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/cart.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/adminStyle.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/error.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/error.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/header.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/banner.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/bg-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/cack1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/cack2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/ch-tick.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/cut.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/dot.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/loggin_man.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/main--bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/pc_loginBg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/sign-cor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_ads.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_btn_01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_btn_02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_footer_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_h1_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_header_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_header_bg_blank.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_image_01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_image_02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_image_03.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_image_04.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/templatemo_menu_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/tick.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/images/user-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/Particleground.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/jquery-1.11.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/register.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/login.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/myorder.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/register.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/subpage.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/templatemo_style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/WebContent/updateUser.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/bookstore.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/Dao/bookstore/BooksDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/Dao/bookstore/OrderDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/Dao/bookstore/OtherDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/Dao/bookstore/UserDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/Filter/bookstore/PowerFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/connect/bookstore/jdbcutil.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/datautil/bookstore/JSONUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/datautil/bookstore/JsonDateValueProcessor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/datautil/bookstore/ObjectToMap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/model/bookstore/Books.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/model/bookstore/CartItem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/model/bookstore/Categories.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/model/bookstore/Orderbook.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/model/bookstore/Orders.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/model/bookstore/Publishers.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/model/bookstore/Userroles.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/model/bookstore/Users.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/phone/bookstore/PhoneAddOrderBooksServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/phone/bookstore/PhoneAddOrderServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/phone/bookstore/PhoneLoginServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/phone/bookstore/PhoneRegisterServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/phone/bookstore/PhoneSearchBooksServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/BooksAddServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/BooksManServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/BooksUpdataServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/CategoriesManServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/LoginServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/OrdersManServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/OrdersUpdataServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/PublishersManServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/UserManServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/servlet/bookstore/UserUpdateAndDeleteServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/tools/bookstore/PageUtil.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/ui/bookstore/AddToCartServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/ui/bookstore/BooksRandomServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/ui/bookstore/CartServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/ui/bookstore/MyOrderServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/ui/bookstore/RegisterServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/ui/bookstore/UpdataUserServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/ui/bookstore/UserLoginServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/conf/bookstore.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/bookstore.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/Dao/bookstore/BooksDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/Dao/bookstore/OrderDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/Dao/bookstore/OtherDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/Dao/bookstore/UserDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/Filter/bookstore/PowerFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/connect/bookstore/jdbcutil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/datautil/bookstore/JSONUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/datautil/bookstore/JsonDateValueProcessor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/datautil/bookstore/ObjectToMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/model/bookstore/Books.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/model/bookstore/CartItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/model/bookstore/Categories.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/model/bookstore/Orderbook.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/model/bookstore/Orders.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/model/bookstore/Publishers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/model/bookstore/Userroles.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/model/bookstore/Users.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/phone/bookstore/PhoneAddOrderBooksServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/phone/bookstore/PhoneAddOrderServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/phone/bookstore/PhoneLoginServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/phone/bookstore/PhoneRegisterServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/phone/bookstore/PhoneSearchBooksServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/BooksAddServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/BooksManServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/BooksUpdataServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/CategoriesManServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/LoginServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/OrdersManServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/OrdersUpdataServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/PublishersManServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/UserManServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/servlet/bookstore/UserUpdateAndDeleteServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/tools/bookstore/PageUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ui/bookstore/AddToCartServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ui/bookstore/BooksRandomServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ui/bookstore/CartServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ui/bookstore/MyOrderServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ui/bookstore/RegisterServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ui/bookstore/UpdataUserServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ui/bookstore/UserLoginServlet.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Books.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/model/bookstore/Books.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/model/bookstore/Books.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bookstore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da7a3484-e288-44b0-b2ac-ba44f1038445" name="Default" comment="" />
+      <created>1519719039010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519719039010</updated>
+    </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1519719219296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519719219296</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新">
+      <created>1519719326890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519719326890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25298634" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/model/bookstore/Books.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookstore.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="55" lean-forward="true" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/bookstore/Books.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
